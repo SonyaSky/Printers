@@ -1,12 +1,12 @@
 ﻿  Printers.cpp
-D:\Соня\VS\Printers\Printers\Printers.cpp(30,29): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+D:\Соня\VS\Printers2\Printers.cpp(35,29): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
           with
           [
               _Elem=char
           ]
-D:\Соня\VS\Printers\Printers\Printers.cpp(36,33): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
+D:\Соня\VS\Printers2\Printers.cpp(41,33): warning C4244: аргумент: преобразование "wchar_t" в "_Elem", возможна потеря данных
           with
           [
               _Elem=char
           ]
-  Printers.vcxproj -> D:\Соня\VS\Printers\Printers\x64\Debug\Printers.exe
+  Printers.vcxproj -> D:\Соня\VS\Printers2\x64\Debug\Printers.exe
